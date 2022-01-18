@@ -10,7 +10,7 @@ Moralis NFT API has through time to be the most reliable and trusted NFT API for
 
 [NFT API Full Documentation](https://docs.moralis.io/moralis-server/web3-sdk/nft-api)
 
-[Video tutorial (step by step](https://www.youtube.com/watch?v=cI-Plx2dKY0)
+[Video tutorial (step by step)](https://www.youtube.com/watch?v=cI-Plx2dKY0)
 
 ## NFT API Endpoints 
 
